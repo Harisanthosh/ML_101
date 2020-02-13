@@ -1,0 +1,101 @@
+﻿Resource;Description;Status;Resource Type
+5354;Abstapelband Modul 2;Productive;DEFAULT
+5355;Abstapelband Modul 3;Standby;DEFAULT
+5356;manuelle Bestückung;Productive;DEFAULT
+5357;Dokumentenbestückung Fach Sonder;Enabled;DEFAULT
+5358;Packzetteldrucker;Enabled;DEFAULT
+5359;"Roboter 1 ""Karton aufrichten""";Enabled;DEFAULT
+5360;"Roboter 2 ""Zähler verpacken""";Enabled;DEFAULT
+5366;Montageplatz RFID für Gewerbezähler;Enabled;DEFAULT
+5577;Vibrationswendelförderer aut. Verpackung;Enabled;DEFAULT
+5722;Laserbeschriftung EI6 Nr.2;Enabled;DEFAULT
+TEST;Grundplatte zuf?hren u. toxen;Productive;DEFAULT
+TEST1;Grundplatte zuf?hren u. toxen;Productive;DEFAULT
+700999;ME-Ressource, test;Enabled;DEFAULT
+721505;721505;Enabled;DEFAULT
+A010001;Reporting Transportsystem Gehäuse;Productive;DEFAULT
+A010002;Reporting Zählwerksaufnahme montieren;Enabled;DEFAULT
+A010003;Reporting Zweirohrstutzen montieren;Enabled;DEFAULT
+A010004;Reporting Einrohrstutzen montieren;Enabled;DEFAULT
+A010005;Reporting Universalumsetzer + Transportb;Productive;DEFAULT
+A010006;Reporting Zähler montieren;Productive;DEFAULT
+A010007;Reporting Zähler verschließen;Productive;DEFAULT
+A010008;Reporting Zähler dichtheitsprüfen;Enabled;DEFAULT
+A010009;Reporting Zähler abstapeln;Productive;DEFAULT
+A010010;Reporting Roboter Adept 6-Achser;Scheduled Down;DEFAULT
+A010011;Reporting Zentrierung Gehäuseoberteil;Scheduled Down;DEFAULT
+A010012;Reporting Grundplatte zuführen+toxen;Scheduled Down;DEFAULT
+A010013;Reporting Lagerkörper nieten;Scheduled Down;DEFAULT
+A010014;Reporting Monti WT-Umlaufsystem;Productive;DEFAULT
+A010015;Reporting Übersetzer+Transportbänder;Standby;DEFAULT
+A010016;Reporting Ventilm. Handauflagepl.;Productive;DEFAULT
+A010017;Reporting Fetten;Standby;DEFAULT
+A010018;Reporting Einsetzen Ausgangskanal;Disabled;DEFAULT
+A010019;Reporting Aussenmagnet einsetzen;Disabled;DEFAULT
+A010020;Reporting Messwerk einsetzen;Standby;DEFAULT
+A010021;Reporting Dosieren Oberteil;Standby;DEFAULT
+A010022;Reporting Unterteil aufsetzen;Standby;DEFAULT
+A010023;Reporting Falz auflegen;Standby;DEFAULT
+A010024;Reporting Vorbördeln Nr. 1;Standby;DEFAULT
+A010025;Reporting Fertigbördeln Nr. 1;Standby;DEFAULT
+A010026;Reporting Vorbördeln Nr. 2;Standby;DEFAULT
+A010027;Reporting Fertigbördeln Nr. 2;Standby;DEFAULT
+A010028;Reporting Ausschleusen von Prüfteilen;Standby;DEFAULT
+A010029;Reporting Linienportal Lecktestanlage;Productive;DEFAULT
+A010030;Reporting Flächenportal  Produktausg.;Productive;DEFAULT
+A010031;Reporting Gaszähler wenden;Productive;DEFAULT
+A010032;Reporting Etikettierung Nr. 1;Standby;DEFAULT
+A010033;Reporting Etikettierung Nr. 2;Standby;DEFAULT
+A010034;Reporting Prüfkammer 10;Productive;DEFAULT
+A010035;Reporting Prüfkammer 11;Standby;DEFAULT
+A010036;Reporting Prüfkammer 12;Productive;DEFAULT
+A010037;Reporting Prüfkammer 13;Standby;DEFAULT
+A010038;Reporting Erdungsklammer Station 3.08;Standby;DEFAULT
+A010039;Reporting ATEX-Prüfung Monti 2;Enabled;DEFAULT
+DEFAULT;Standardressource;Enabled;DEFAULT
+HMI16001;Beckhoff XTS;Enabled;DEFAULT
+HMI16002;Unterteilmontage;Enabled;DEFAULT
+HMI16003;RFID-Montage;Enabled;DEFAULT
+HMI16004;RIFD-Prüfung;Enabled;DEFAULT
+HMI16005;Oberteilmontage;Enabled;DEFAULT
+HMI16006;Produktentnahme;Enabled;DEFAULT
+HMI16007;NIO Platz;Productive;DEFAULT
+HMI16008;Bildmontage;Enabled;DEFAULT
+ZTH_TEST;Standardressource;Enabled;DEFAULT
+TB-RES-HF;TB-RES-HF;Productive;DEFAULT
+TB-RES-MN;TB-RES-MN;Productive;DEFAULT
+TB-RES-NK;TB-RES-NK;Enabled;DEFAULT
+TB-RES-PG;TB-RES-PG;Productive;DEFAULT
+TESTER-TB;TESTER-TB;Enabled;DEFAULT
+TH_PROD_1;TH Test Produktionsarbeitsplatz 1;Hold;DEFAULT
+TH_PROD_2;TH Test Produktionsarbeitsplatz 2;Enabled;DEFAULT
+ZSV_NORMAL;Normal in Prüfanlage;Enabled;DEFAULT
+RESOURCE_00;Recource 00 für SoapUI Schulung;Standby;DEFAULT
+RESOURCE_01;Recource 01 für SoapUI Schulung;Enabled;DEFAULT
+RESOURCE_02;Recource 02 für SoapUI Schulung;Standby;DEFAULT
+RESOURCE_03;Recource 03 für SoapUI Schulung;Hold;DEFAULT
+RESOURCE_04;Recource 04 für SoapUI Schulung;Hold;DEFAULT
+RESOURCE_05;Recource 05 für SoapUI Schulung;Engineering;DEFAULT
+RESOURCE_06;Recource 06 für SoapUI Schulung;Enabled;DEFAULT
+RESOURCE_07;Recource 07 für SoapUI Schulung;Hold;DEFAULT
+RESOURCE_08;Recource 08 für SoapUI Schulung;Standby;DEFAULT
+RESOURCE_09;Recource 09 für SoapUI Schulung;Productive;DEFAULT
+ZMK_BRNO_01;ZMK_BRNO_01;Enabled;DEFAULT
+ZMK_BRNO_02;ZMK_BRNO_02;Enabled;DEFAULT
+ZMK_BRNO_03;ZMK_BRNO_03;Enabled;DEFAULT
+ZMK_BRNO_04;ZMK_BRNO_04;Enabled;DEFAULT
+HAVEN-TB-RES;Created for Time based Traceability;Productive;DEFAULT
+ZN_TB-RES-01;ZN_TB-RES-01;Productive;DEFAULT
+ASSY-BENCH-FS;ASSY-BENCH-FS;Hold SPC Viol;DEFAULT
+ASSY-BENCH-TB;ASSY-BENCH-TB;Enabled;DEFAULT
+SAP_TEST_3833;Matrixcodedrucker;Enabled;DEFAULT
+SAP_TEST_RSRC;SAP_TEST_RSRC;Enabled;DEFAULT
+ZAB_TB-RES-01;ZAB_TB-RES-01;Productive;DEFAULT
+ZAB_TESTER-01;ZAB_TESTER-01;Enabled;DEFAULT
+ZSK_TB-RES-01;ZSK_TB-RES-01;Productive;DEFAULT
+ZSK_TESTER-01;ZSK_TESTER-01;Enabled;DEFAULT
+ZAVB_TESTER_01;TestaPrüfplatz1;Enabled;DEFAULT
+ZSVDA_RESOURCE;ZSVDA_Resource;Productive;DEFAULT
+ZSV_EICHNORMAL;Eichnormal 1;Enabled;DEFAULT
+TH_PRUEFSTATION;TH Test Prüfarbeitsplatz;Enabled;DEFAULT
+ZCB_PRUEFPLATZ1;Prüfplatz 1;Productive;DEFAULT
